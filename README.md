@@ -11,6 +11,7 @@ AMFI ARN Holder's data scrapper is CLI (Command Line Interface) based tool, wher
 2. Should have these Python libraries: requests, bs4, pandas, argparse, tqdm
 
 **To run this script, you need to give these command in the CLI interface:**
+
 **Note:** You need to open cmd and navigate to AMFI_Fetcher.py script
 Type this command: python AMFI_Fetcher.py -st -y
 
